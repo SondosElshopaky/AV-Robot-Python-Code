@@ -1,6 +1,6 @@
 # AV-Robot-Python-Code
-This Program contains some of the functions AV team used while programming our Spike robot to do certain tasks on the ground, as well as an example mission run.
-This code was created by Python language.
+This Program contains some of the functions my team, AV team, used while programming our Spike robot to do certain tasks on the ground, as well as an example mission run.
+This code was created by Python language and used by AV team in FIRST LEGO League Championship Egypt 2022.
 
 Functions:
 
